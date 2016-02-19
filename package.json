@@ -1,0 +1,12 @@
+{
+  "name": "vtile-scrape",
+  "description": "Pull down vtiles from s3",
+  "version": "0.1.0",
+  "license": "BSD",
+  "main": "./scape.js",
+  "dependencies": {
+    "mbtiles": "^0.8.2",
+    "tilelive": "^5.12.1",
+    "tilelive-http": "^0.9.0"
+  }
+}
